@@ -32,9 +32,8 @@
     🤔 I’m looking for help with Internship.  
     💬 Teach me about Javascript.  
     📫 How to reach me: [Twitter](https://twitter.com/Mhanhman26)  
-    ⚡ Fun fact: I can work without music.
-</div>                                                                                                                                             
-
+    ⚡ Fun fact: I can work without music.                                                                                                                                             
+                                                                                                                                                     
 <h1>Technical Skills 🛠</h1>
 
 <p align="center">
