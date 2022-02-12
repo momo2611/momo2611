@@ -33,6 +33,7 @@ I am a dedicated and hardworking member of the team.**
 💬 Teach me about Javascript.  
 📫 How to reach me: [Twitter](https://twitter.com/Mhanhman26)  
 ⚡ Fun fact: I can work without music.
+                                                                                                                                                 </div>                                                                                                                                                 
 
 <h1>Technical Skills 🛠</h1>
 
