@@ -69,8 +69,8 @@
  
  
  <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momosumochi2611&layout=compact&theme=midnight-purple"></img>
-<img src="https://github-readme-stats.vercel.app/api?username=momosumochi2611&show_icons=true&theme=cobalt"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momosumochi2611&layout=compact&theme=dracula"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=momosumochi2611&show_icons=true&theme=dracula"></img>
 </div>  
 
   
