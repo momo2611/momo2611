@@ -4,27 +4,26 @@
 ---
 
 ## Connect with me
-
 <div align="center>
-    <a href="https://github.com/momosumochi2611" target="_blank">
-        <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://discord.com/もう少しだけ#5654" target="_blank">
-        <img src=https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
-    </a>
-    <a href="#" target="_blank">
-        <img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white alt=discord style="margin-bottom: 5px;" />
-    </a>
-    <a href="#" target="_blank">
-        <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=discord style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://twitter.com/Mhanhman26" target="_blank">
-        <img src=https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white alt=discord style="margin-bottom: 5px;" />
-    </a>
+<a href="https://github.com/momosumochi2611" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://discord.com/もう少しだけ#5654" target="_blank">
+    <img src=https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
+</a>
+<a href="#" target="_blank">
+    <img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white alt=discord style="margin-bottom: 5px;" />
+</a>
+<a href="#" target="_blank">
+    <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=discord style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/Mhanhman26" target="_blank">
+    <img src=https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white alt=discord style="margin-bottom: 5px;" />
+</a>
 
 
-    **I am a Third Year Student Pursuing Bachelor of engineering in information technology at University. Programmer who codes in Javascript.**
-    **I really like to explore new Domains. I am good at analyzing and problem solving. My objective is to build a career in an organization which can provide me with the opportunity to apply my skills for growth and profitability of the organization as well as to grow as an individual.
+**I am a Third Year Student Pursuing Bachelor of engineering in information technology at University. Programmer who codes in Javascript.**
+**I really like to explore new Domains. I am good at analyzing and problem solving. My objective is to build a career in an organization which can provide me with the opportunity to apply my skills for growth and profitability of the organization as well as to grow as an individual.
     I am a dedicated and hardworking member of the team.**
 
     🔭 I’m currently working on Web Development Projects.    
@@ -34,7 +33,7 @@
     📫 How to reach me: [Twitter](https://twitter.com/Mhanhman26)  
     ⚡ Fun fact: I can work without music.                                                                                                                                             
                                                                                                                                                      
-<h1>Technical Skills 🛠</h1>
+    <h1>Technical Skills 🛠</h1>
 
 <p align="center">
     <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
