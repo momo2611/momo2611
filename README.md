@@ -70,8 +70,8 @@
  
  
  <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momosumochi2611&layout=compact&theme=dracula"></img>
-<img src="https://github-readme-stats.vercel.app/api?username=momosumochi2611&show_icons=true&theme=dracula"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momo2611&layout=compact&theme=dracula"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=momo2611&show_icons=true&theme=dracula"></img>
 </div>  
 
   
@@ -80,10 +80,10 @@
 </div>
 
 <div align="center">
-<img src="https://img.shields.io/github/followers/momosumochi2611.svg?style=social&label=Follow"></img>
+<img src="https://img.shields.io/github/followers/momo2611.svg?style=social&label=Follow"></img>
 
-<img src="https://gpvc.arturio.dev/momosumochi2611"></img>
+<img src="https://gpvc.arturio.dev/momo2611"></img>
 </div>
 
 <div align="center">
- <img src="https://activity-graph.herokuapp.com/graph?username=momosumochi2611&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
+ <img src="https://activity-graph.herokuapp.com/graph?username=momo2611&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
