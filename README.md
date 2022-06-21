@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there, I'm Mosu Mochi<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
-<h1 align="center">I am a Web Developer ❤ </h1>
+<h1 align="center">I am a Web Developer ❤ | Partner of Nelson Verse </h1>
 
 --- 
 
