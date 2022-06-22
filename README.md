@@ -47,7 +47,7 @@
  📫 How to reach me: [Twitter](https://twitter.com/Mhanhman26)  
  ⚡ Fun fact: I can work without you.  
    
- <h1>Technical Skills 🛠</h1>
+ <h1>Technical Skills ( Some learn in Uni ) 🛠</h1>
 
 <p align="center"> 
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
