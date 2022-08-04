@@ -21,20 +21,8 @@
  <a href="https://twitter.com/Mhanhman26" target="_blank">
 <img src=https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white alt=Twitter style="margin-bottom: 5px;" />
 </a>
-
-<!--
-**amruta-07/amruta-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- Here are some ideas to get you started:  
- I am CSE'23. my main interest lies in Web Development and DSA. I am always curious to learn something new.
-- 🔭 I’m currently working on Web Development Projects.
-- 🌱 I’m currently learning Best Practices for DSA and CP.
-- 👯 I’m looking to collaborate on any web development Project.
-- 🤔 I’m looking for help with Internship.
-- 💬 Ask me about Java.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amruta-misal-5a53341a8).
-- 😄 Pronouns: You can give one.
-- ⚡ Fun fact: I can work without music.
--->  
+ 
+ 
 
 **I am a Senior student Pursuing Bachelor of engineering in information technology at University. Programmer who codes in Javascript.**
 **I really like to explore new Domains. I am good at analyzing and problem solving. My objective is to build a career in an organization which can provide me with the opportunity     to apply my skills for growth and profitability of the organization as well as to grow as an individual.
@@ -45,7 +33,7 @@
    🤔 I’m looking for help with Internship.  
  💬 Teach me about Javascript.  
  📫 How to reach me: [Twitter](https://twitter.com/Mhanhman26)  
- ⚡ Fun fact: I can work without you.  
+ ⚡ Fun fact: I love cats.  
    
  <h1>Technical Skills ( Some learn in Uni ) 🛠</h1>
 
