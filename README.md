@@ -59,7 +59,7 @@
  
  
  <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momo2611&layout=compact&theme=dracula"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momo2611&langs_count=8&layout=compact&theme=dracula"></img>
 <img src="https://github-readme-stats.vercel.app/api?username=momo2611&show_icons=true&theme=dracula"></img>
 </div>  
 
