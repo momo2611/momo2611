@@ -30,7 +30,6 @@
 
  🔭 I’m currently working on Web Development Projects.  
  👯 I’m looking to collaborate on any web development Project.  
-   🤔 I’m looking for help with Internship.  
  💬 Teach me about Javascript.  
  📫 How to reach me: [Twitter](https://twitter.com/Mhanhman26)  
  ⚡ Fun fact: I love cats.  
