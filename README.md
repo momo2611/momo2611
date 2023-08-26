@@ -18,8 +18,7 @@
  
  
 
-**I am a Senior student Pursuing Bachelor of engineering in information technology at University. Programmer who codes in Javascript.**
-**I really like to explore new Domains. I am good at analyzing and problem solving. My objective is to build a career in an organization which can provide me with the opportunity     to apply my skills for growth and profitability of the organization as well as to grow as an individual.
+**I really like to explore new Domains. I am good at analyzing and problem solving. My objective is to build a career in an organization which can provide me with the opportunity to apply my skills for growth and profitability of the organization as well as to grow as an individual.
    I am a dedicated and hardworking member of the team.**
 
  <h1>Technical Skills & Tools ( Some learn in Uni ) 🛠</h1>
